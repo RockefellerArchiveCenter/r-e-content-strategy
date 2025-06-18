@@ -1,10 +1,10 @@
 ---
 layout: docs
-title:  "Content Strategy for the Research and Engagement Program"
+title:  "Content Strategy"
 ---
 
 To be reviewed annually.
-Last approved 11/23.
+Last updated 06/25.
 
 ## Research & Engagement Program Vision
 Consistent with the Mission, Vision, and Values of the Rockefeller Archive Center, the Research & Engagement Program envisions a broad and diverse community engaged in archival practice, primary source research, and historical understanding.
@@ -22,26 +22,26 @@ Consistent with the Mission, Vision, and Values of the Rockefeller Archive Cente
 - Engage in conversations with communities represented in and impacted by our work
 
 ## Guiding Principles of R&E's Work
-* Public and Accessible
-  * We build, use, and share open-source tools, records, systems, and content wherever possible.
-  * We ensure our products are compatible with common software applications and digital tools.
-  * We adhere to accessibility practices for typefaces, icons, images, and other design elements.
-  * In our education work, we partner primarily with public institutions.
+Public and Accessible
+* We build, use, and share open-source tools, records, systems, and content wherever possible.
+* We ensure our products are compatible with common software applications and digital tools.
+* We adhere to accessibility practices for typefaces, icons, images, and other design elements.
+* In our education work, we partner primarily with public institutions.
  
-* Digital First
-  * Our work is conceived, managed, designed, edited, discussed, and delivered in a digital environment. 
-  * We aim to do more with less. A digital-first approach means that we have the potential to reach more user communities than we could using our physical space or traditional forms of research, communication, and dissemination.
-  * Working digitally allows our team to be productive, inclusive, and respectful of social-emotional well-being.
-  * In our projects and programs, we don’t assume physical access to our spaces, records, people, or products.
+Digital First
+* Our work is conceived, managed, designed, edited, discussed, and delivered in a digital environment. 
+* We aim to do more with less. A digital-first approach means that we have the potential to reach more user communities than we could using our physical space or traditional forms of research, communication, and dissemination.
+* Working digitally allows our team to be productive, inclusive, and respectful of social-emotional well-being.
+* In our projects and programs, we don’t assume physical access to our spaces, records, people, or products.
 
-* Always Evolving
-  * Our team fosters learner curiosity, encourages experimentation, and provides a safe space to try new tools and approaches.
-  * Our work is never “finished.” We iterate, adjust, rework, and reinvent. 
+Always Evolving
+* Our team fosters learner curiosity, encourages experimentation, and provides a safe space to try new tools and approaches.
+* Our work is never “finished.” We iterate, adjust, rework, and reinvent. 
  
-* RAC Goals, not External Goals
-  * We publish and promote research conducted through or related to our programs and goals. 
-  * We do not partner with individuals or institutions whose primary goals are commercial.
-  * We do not promote the strategies or missions of our donor/depositing organizations.
+RAC Goals, not External Goals
+* We publish and promote research conducted through or related to our programs and goals. 
+* We do not partner with individuals or institutions whose primary goals are commercial.
+* We do not promote the strategies or missions of our donor/depositing organizations.
 
 ## Communities We Serve
 * Educators and the learners they serve 
@@ -122,7 +122,6 @@ Technical Supports
 * Integration with RAC systems and practices
 
 ## Editorial Calendar
-
 The editorial calendar is developed with SMARTIE goals in mind. (Strategic Measurable Appropriate Realistic Time-bound Inclusive Equitable.) The team will draft a quarterly content plan for approval by the Director of R&E. Individual pieces of content are developed and managed through Asana. 
 
 The quarterly content plans will include:
@@ -144,7 +143,23 @@ We are a learning team; we strive to be responsive to meet the needs of our comm
 * User feedback
 
 ## Commenting Policy
-* Comments that include hate speech will be removed and the offending accounts blocked.
-* We comment to answer questions or express support for ideas that align with our values and goals.
-* We “like” posts that relate to our work or the subjects of our holdings. Likes do not mean endorsement.
-* We align our content practices with the [RAC Privacy Policy](https://rockarch.org/about-us/privacy-policy/) and with [RAC Mission, Vision, and Values](https://rockarch.org/about-us/mission-vision-values/).
+By collecting, managing, preserving and providing broad and equitable access to the historical records of philanthropy and other efforts to work on behalf of the public good, the Rockefeller Archive Center inspires critical analysis and contributes knowledge to diverse learning communities throughout the world. Read more about our vision and values [here](https://rockarch.org/about-us/mission-vision-values/).
+
+The Rockefeller Archive Center seeks to use our social media channels to further our mission and engage the public with our collections and the team who works to make those collections available. As such, we ask that all users of our social media channels abide by the following guidelines.
+
+To foster belonging on our social media channels, we ask that all commenters use respectful language.
+
+Users may not post comments that include any of the following:
+* Profanity
+* Personal attacks
+* Threats of violence or bullying
+* Offensive or discriminatory language
+* Vulgar or explicit language
+* Promotion of illegal activity
+* Self-promotion, spam, selling of products, or links
+* Violations of privacy
+
+### Violating Community Guidelines
+Users who violate the Rockefeller Archive Center Community Guidelines will have their comments deleted. Repeat violations will result in being blocked from the channels.
+
+Additionally, users must abide by the social media platform’s own Community Standards. The Meta Community Standards can be found [here](https://transparency.meta.com/policies/community-standards/). The LinkedIn Community Standards can be found [here](https://www.linkedin.com/legal/professional-community-policies).
